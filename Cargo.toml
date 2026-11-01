@@ -1,0 +1,12 @@
+[package]
+name = "giias-main-hall"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jonathan Cahyadi <veneratesman@gmail.com>"]
+description = "GIIAS Main Hall: 2D interactive automotive expo simulator in Rust with 2D grid map navigation, vehicle dealerships, and shopping cart."
+license = "MIT"
+repository = "https://github.com/ZengLLQ/giias-main-hall"
+keywords = ["automotive", "expo", "cli-game", "simulator", "2d-grid"]
+categories = ["command-line-utilities", "games"]
+
+[dependencies]
